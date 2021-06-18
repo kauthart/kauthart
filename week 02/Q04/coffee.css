@@ -1,0 +1,9 @@
+p {
+  border: 1px solid;
+}
+img{
+  width: 90px;
+  height: 120px;
+  justify-content: space-between;
+  float:right;
+}

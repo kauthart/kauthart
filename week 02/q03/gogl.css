@@ -1,0 +1,46 @@
+.main{
+    width: 60%;
+    border: 1px solid;
+    margin-top: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+#g{
+    color: blue;
+    font-size: 90px;
+}
+#o{
+    color: red;
+    font-size: 90px;
+}
+#o2{
+    color: yellow;
+    font-size: 90px;
+}
+#l{
+    color: green;
+    font-size: 90px;
+}
+p{
+    margin-top: -20px;
+    margin-right: -220px;
+}
+#search{
+    margin-top: 30px;
+    width: 80%;
+    height: 25px;
+}
+#btnsearch{
+    padding: 5px;
+    width: 180px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+#btnlucky{
+    padding: 5px;
+    width: 180px;
+    margin-top: 20px;
+    margin-right: 5px;
+}
